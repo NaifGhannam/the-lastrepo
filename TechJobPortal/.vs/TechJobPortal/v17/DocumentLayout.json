@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dhdfa\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\TechJobPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{548A2FA7-FAA5-4D02-B04E-C39724AA2CD9}|TechJobPortal\\TechJobPortal.csproj|c:\\users\\dhdfa\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\techjobportal\\techjobportal\\views\\job\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{548A2FA7-FAA5-4D02-B04E-C39724AA2CD9}|TechJobPortal\\TechJobPortal.csproj|solutionrelative:techjobportal\\views\\job\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{548A2FA7-FAA5-4D02-B04E-C39724AA2CD9}|TechJobPortal\\TechJobPortal.csproj|c:\\users\\dhdfa\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\techjobportal\\techjobportal\\views\\job\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{548A2FA7-FAA5-4D02-B04E-C39724AA2CD9}|TechJobPortal\\TechJobPortal.csproj|solutionrelative:techjobportal\\views\\job\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{548A2FA7-FAA5-4D02-B04E-C39724AA2CD9}|TechJobPortal\\TechJobPortal.csproj|c:\\users\\dhdfa\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\techjobportal\\techjobportal\\views\\job\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{548A2FA7-FAA5-4D02-B04E-C39724AA2CD9}|TechJobPortal\\TechJobPortal.csproj|solutionrelative:techjobportal\\views\\job\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{548A2FA7-FAA5-4D02-B04E-C39724AA2CD9}|TechJobPortal\\TechJobPortal.csproj|c:\\users\\dhdfa\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\techjobportal\\techjobportal\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{548A2FA7-FAA5-4D02-B04E-C39724AA2CD9}|TechJobPortal\\TechJobPortal.csproj|solutionrelative:techjobportal\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{548A2FA7-FAA5-4D02-B04E-C39724AA2CD9}|TechJobPortal\\TechJobPortal.csproj|c:\\users\\dhdfa\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\techjobportal\\techjobportal\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{548A2FA7-FAA5-4D02-B04E-C39724AA2CD9}|TechJobPortal\\TechJobPortal.csproj|solutionrelative:techjobportal\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{548A2FA7-FAA5-4D02-B04E-C39724AA2CD9}|TechJobPortal\\TechJobPortal.csproj|c:\\users\\dhdfa\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\techjobportal\\techjobportal\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{548A2FA7-FAA5-4D02-B04E-C39724AA2CD9}|TechJobPortal\\TechJobPortal.csproj|solutionrelative:techjobportal\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{548A2FA7-FAA5-4D02-B04E-C39724AA2CD9}|TechJobPortal\\TechJobPortal.csproj|c:\\users\\dhdfa\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\techjobportal\\techjobportal\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{548A2FA7-FAA5-4D02-B04E-C39724AA2CD9}|TechJobPortal\\TechJobPortal.csproj|solutionrelative:techjobportal\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{548A2FA7-FAA5-4D02-B04E-C39724AA2CD9}|TechJobPortal\\TechJobPortal.csproj|c:\\users\\dhdfa\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\techjobportal\\techjobportal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{548A2FA7-FAA5-4D02-B04E-C39724AA2CD9}|TechJobPortal\\TechJobPortal.csproj|solutionrelative:techjobportal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{548A2FA7-FAA5-4D02-B04E-C39724AA2CD9}|TechJobPortal\\TechJobPortal.csproj|c:\\users\\dhdfa\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\techjobportal\\techjobportal\\models\\joblisting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{548A2FA7-FAA5-4D02-B04E-C39724AA2CD9}|TechJobPortal\\TechJobPortal.csproj|solutionrelative:techjobportal\\models\\joblisting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\dhdfa\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\TechJobPortal\\TechJobPortal\\Views\\Job\\Create.cshtml",
+              "RelativeDocumentMoniker": "TechJobPortal\\Views\\Job\\Create.cshtml",
+              "ToolTip": "C:\\Users\\dhdfa\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\TechJobPortal\\TechJobPortal\\Views\\Job\\Create.cshtml*",
+              "RelativeToolTip": "TechJobPortal\\Views\\Job\\Create.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T11:38:33.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\dhdfa\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\TechJobPortal\\TechJobPortal\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "TechJobPortal\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\dhdfa\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\TechJobPortal\\TechJobPortal\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "TechJobPortal\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T11:20:24.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "C:\\Users\\dhdfa\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\TechJobPortal\\TechJobPortal\\Views\\Shared\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "TechJobPortal\\Views\\Shared\\_Footer.cshtml",
+              "ToolTip": "C:\\Users\\dhdfa\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\TechJobPortal\\TechJobPortal\\Views\\Shared\\_Footer.cshtml",
+              "RelativeToolTip": "TechJobPortal\\Views\\Shared\\_Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T10:55:36.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "C:\\Users\\dhdfa\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\TechJobPortal\\TechJobPortal\\Views\\Shared\\_Header.cshtml",
+              "RelativeDocumentMoniker": "TechJobPortal\\Views\\Shared\\_Header.cshtml",
+              "ToolTip": "C:\\Users\\dhdfa\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\TechJobPortal\\TechJobPortal\\Views\\Shared\\_Header.cshtml",
+              "RelativeToolTip": "TechJobPortal\\Views\\Shared\\_Header.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T10:53:46.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\dhdfa\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\TechJobPortal\\TechJobPortal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TechJobPortal\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\dhdfa\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\TechJobPortal\\TechJobPortal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TechJobPortal\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T10:35:59.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\dhdfa\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\TechJobPortal\\TechJobPortal\\Views\\Job\\Details.cshtml",
+              "RelativeDocumentMoniker": "TechJobPortal\\Views\\Job\\Details.cshtml",
+              "ToolTip": "C:\\Users\\dhdfa\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\TechJobPortal\\TechJobPortal\\Views\\Job\\Details.cshtml",
+              "RelativeToolTip": "TechJobPortal\\Views\\Job\\Details.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T10:26:43.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dhdfa\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\TechJobPortal\\TechJobPortal\\Views\\Job\\Index.cshtml",
+              "RelativeDocumentMoniker": "TechJobPortal\\Views\\Job\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dhdfa\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\TechJobPortal\\TechJobPortal\\Views\\Job\\Index.cshtml",
+              "RelativeToolTip": "TechJobPortal\\Views\\Job\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T10:25:16.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JobController.cs",
+              "DocumentMoniker": "C:\\Users\\dhdfa\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\TechJobPortal\\TechJobPortal\\Controllers\\JobController.cs",
+              "RelativeDocumentMoniker": "TechJobPortal\\Controllers\\JobController.cs",
+              "ToolTip": "C:\\Users\\dhdfa\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\TechJobPortal\\TechJobPortal\\Controllers\\JobController.cs",
+              "RelativeToolTip": "TechJobPortal\\Controllers\\JobController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T10:19:58.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JobListing.cs",
+              "DocumentMoniker": "C:\\Users\\dhdfa\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\TechJobPortal\\TechJobPortal\\Models\\JobListing.cs",
+              "RelativeDocumentMoniker": "TechJobPortal\\Models\\JobListing.cs",
+              "ToolTip": "C:\\Users\\dhdfa\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\TechJobPortal\\TechJobPortal\\Models\\JobListing.cs",
+              "RelativeToolTip": "TechJobPortal\\Models\\JobListing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T10:18:08.396Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
